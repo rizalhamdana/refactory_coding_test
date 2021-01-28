@@ -32,7 +32,7 @@ func (u *Soal2UsecaseImpl) FindUsersWhoNoPhoneNumbers() {
 			count++
 		}
 	}
-	fmt.Printf("\nCount: %d", count)
+	fmt.Printf("\nCount: %d\n", count)
 }
 
 func (u *Soal2UsecaseImpl) FindUsersWhoHaveArticles() {
@@ -51,7 +51,7 @@ func (u *Soal2UsecaseImpl) FindUsersWhoHaveArticles() {
 			count++
 		}
 	}
-	fmt.Printf("\nCount: %d", count)
+	fmt.Printf("\nCount: %d\n", count)
 
 }
 
@@ -71,7 +71,7 @@ func (u *Soal2UsecaseImpl) FindUsersWhoHaveAnnisInTheirName() {
 			count++
 		}
 	}
-	fmt.Printf("\nCount: %d", count)
+	fmt.Printf("\nCount: %d\n", count)
 
 }
 
@@ -96,7 +96,7 @@ func (u *Soal2UsecaseImpl) FindUsersWhoBornOn1996() {
 			count++
 		}
 	}
-	fmt.Printf("\nCount: %d", count)
+	fmt.Printf("\nCount: %d\n", count)
 }
 
 func (u *Soal2UsecaseImpl) FindUsersWhoHaveArticlesIn2020() {
@@ -123,7 +123,7 @@ func (u *Soal2UsecaseImpl) FindUsersWhoHaveArticlesIn2020() {
 		}
 
 	}
-	fmt.Printf("\nCount: %d", count)
+	fmt.Printf("\nCount: %d\n", count)
 }
 
 func (u *Soal2UsecaseImpl) FindArticlesContainTips() {
@@ -145,7 +145,7 @@ func (u *Soal2UsecaseImpl) FindArticlesContainTips() {
 			count++
 		}
 	}
-	fmt.Printf("\nCount: %d", count)
+	fmt.Printf("\nCount: %d\n", count)
 }
 
 func (u *Soal2UsecaseImpl) FindArticlesPublishedBeforeAugust2019() {
@@ -177,7 +177,7 @@ func (u *Soal2UsecaseImpl) FindArticlesPublishedBeforeAugust2019() {
 			count++
 		}
 	}
-	fmt.Printf("\nCount: %d", count)
+	fmt.Printf("\nCount: %d\n", count)
 
 }
 
