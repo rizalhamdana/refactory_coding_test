@@ -20,7 +20,5 @@ Expected: Akan return response dalam bentuk json seperti di bawah:
 
 ## Pembahassan
 
-Terakhir kali saya akses (29 Jan 2021 14:37). Repo yang diberikan link nya tidak dapat diakses. Browser saya memberikan pesan `Page Not Found` Ketika saya mengakses link tersebut. Berikut Screenshootannya:
+Terakhir kali saya akses (29 Jan 2021 14:37). Repo yang diberikan link nya tidak dapat diakses. Browser saya memberikan pesan `Page Not Found` Ketika saya mengakses link tersebut. Screenshot nya dapat dilihat pada file `screenshot_repo_soal_4.png`
 
-![alt text][sc]
-[sc]: screenshot_repo_soal_4.png
