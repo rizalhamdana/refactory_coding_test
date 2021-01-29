@@ -34,8 +34,9 @@ Total...................Rp20.000
 
 ## How to Run 
 
-1. Pastikan Sudah Berada di directory soal_1
-2. Jalankan Perintah Berikut
+1. Clone Repository ini 
+2. Buka terminal atau command prompt dan pastikan Sudah Berada di directory `soal_1`
+3. Jalankan Perintah Berikut
 
 ```
 go run .
