@@ -23,4 +23,4 @@ Expected: Akan return response dalam bentuk json seperti di bawah:
 Terakhir kali saya akses (29 Jan 2021 14:37). Repo yang diberikan link nya tidak dapat diakses. Browser saya memberikan pesan `Page Not Found` Ketika saya mengakses link tersebut. Berikut Screenshootannya:
 
 ![alt text][sc]
-[sc]: https://github.com/rizalhamdana/refactory_coding_test/blob/patch/add-readme/soal_4/screenshot_repo_soal_4.png
+[sc]: screenshot_repo_soal_4.png
