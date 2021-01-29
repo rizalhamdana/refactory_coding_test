@@ -17,6 +17,8 @@ Input sederhana saja, bisa menggunakan stdin dari command line.
 - Bisa menerima List Produk dengan input satu per satu.
 Contoh Output:
 Output bisa cukup minimal muncul di command line atau log.
+
+```
      Warung Makan Sederhana
 Tanggal :	2020/12/2020 15:30:00
 Nama Kasir : 	    {{YourName}}
@@ -27,6 +29,8 @@ Minum...................Rp5.000
 
 Total...................Rp20.000
 
+
+```
 
 ## How to Run 
 
