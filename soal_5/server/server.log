@@ -1,6 +1,0 @@
-[2021-01-29T03:31:16+07:00] Success: POST http://172.17.0.1 {"counter":1,"header":"daslhquwq"}
-[2021-01-29T03:32:16+07:00] Success: POST http://172.17.0.1 {"counter":2,"header":"daslhquwq"}
-[2021-01-29T03:32:53+07:00] Success: POST http://172.17.0.1 {"counter":1,"header":"daslhquwq"}
-[2021-01-29T03:33:29+07:00] Success: POST http://172.17.0.1 {"counter":1,"header":"daslhquwq"}
-[2021-01-29T03:34:14+07:00] Success: POST http://172.17.0.1 {"counter":1,"header":"daslhquwq"}
-[2021-01-29T04:03:27+07:00] Success: POST http://172.17.0.1 {"counter":1,"header":"daslhquwq"}
